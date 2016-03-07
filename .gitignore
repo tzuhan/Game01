@@ -1,0 +1,9 @@
+/cocos2d/**/*.idb
+/cocos2d/**/*.pdb
+/cocos2d/**/*.log
+/cocos2d/**/*.tlog
+/cocos2d/**/*.obj
+/cocos2d/**/*.pdb
+/proj.win32/Debug.win32/
+/bin
+*.exe

@@ -10,6 +10,6 @@
   [jackervator](https://github.com/jackervator)  
   [tzuhan](https://github.com/tzuhan)  
   [OppOops](https://github.com/oppoops)  
-
+  [Lang-Chi Yu](https://github.com/OckhamsRazor)  
 
 
