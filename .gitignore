@@ -7,3 +7,14 @@
 /proj.win32/Debug.win32/
 /bin
 *.exe
+
+libs/
+bin/
+obj/
+assets/
+gen/
+out/
+.classpath
+.project
+.cproject
+local.properties
